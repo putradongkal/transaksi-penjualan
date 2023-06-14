@@ -1,8 +1,8 @@
 Import database transaksi_penjualan.sql
 
 Login Information
-Username: irfan
-Password: Admin123%
+`Username: irfan`
+`Password: Admin123%`
 
 # CodeIgniter 4 Application Starter
 
