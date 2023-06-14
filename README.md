@@ -1,4 +1,4 @@
-Import database transaksi_penjualan.sql
+Import database `transaksi_penjualan.sql`
 
 Login Information
 `Username: irfan`
